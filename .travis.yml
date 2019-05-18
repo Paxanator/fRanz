@@ -10,7 +10,3 @@ language: r
 r: 
   - release
 cache: packages
-
-os:
-  - linux
-  - osx
